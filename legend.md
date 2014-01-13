@@ -1,3 +1,4 @@
+# Legend
 
 
 Description : affichage d’une légende explicative sur la carte elle-même

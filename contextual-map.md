@@ -2,7 +2,7 @@
 # Contextual narrative map
 
 * problems: spatialization
-* tags: juxtaposition
+* tags: juxtaposition, map
 
 Context -> the map is not central, it's aside.
 

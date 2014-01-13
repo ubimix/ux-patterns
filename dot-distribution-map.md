@@ -1,7 +1,7 @@
 # Dot distribution map
 
 * problems: spatialize (popup content), highlight
-* tags: superposition
+* tags: superposition, map
 
 "A dot distribution map (also known as dot density map) is as a map type that uses a dot symbol to show the presence of a feature or phenomenon. Dot maps rely on a visual scatter to show spatial pattern."
 http://en.wikipedia.org/wiki/Dot_distribution_map

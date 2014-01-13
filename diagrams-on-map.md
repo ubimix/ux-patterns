@@ -1,7 +1,7 @@
-
+# Diagrams on a map
 
 * problems: describe
-* tags: superposition
+* tags: superposition, map
 
 Description: affichage de diagrammes liés à des zones d’une image
 

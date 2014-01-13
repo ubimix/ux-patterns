@@ -1,4 +1,4 @@
-
+# Small Multiples
 
 http://www.juiceanalytics.com/writing/better-know-visualization-small-multiples/
 

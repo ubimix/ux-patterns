@@ -1,3 +1,4 @@
+# Problems
 
 * highlight
 * spatialize
@@ -6,3 +7,4 @@
 * show routes
 * give detail
 * navigation
+* statistics (represent statistics)

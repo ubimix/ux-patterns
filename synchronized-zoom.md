@@ -1,4 +1,4 @@
-# Synchronized zoom
+# Synchronized Zoom
 
 * problems: comparison
 * tags: zoom

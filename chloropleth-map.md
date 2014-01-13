@@ -1,6 +1,7 @@
-# Choloropleth
+# Choloropleth Map
 
 * problems: highlight, describe
+* tags: map
 
 "A choropleth map (Greek χώρο– + πλήθ[ος]), ("area/region" + "multitude") is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income." http://en.wikipedia.org/wiki/Choropleth_map
 
