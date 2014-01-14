@@ -1,4 +1,4 @@
-# Multivariate Chloropleth Mapping
+# Multivariate choropleth mapping
 
 * tags: map
 

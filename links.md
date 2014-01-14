@@ -10,6 +10,8 @@ http://1914dernieresnouvelles.arte.tv/edition/180
 http://seidenstrasse.srf.ch/de/home.html
 
 
+http://www.predim.org/IMG/pdf/actes-21112013-v2.pdf
+
 ## Map Design Semiology
 
 http://geoawesomeness.com/hidden-meanings-maps-design-colors/
@@ -35,3 +37,17 @@ A.-M. Guerry’s Moral Statistics of France: Challenges for Multivariable Spatia
 http://projecteuclid.org/euclid.ss/1199285037
 
 http://dlader.blogspot.fr/2008/04/multivariate-mapping.html
+
+
+http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/
+
+http://www.slideshare.net/ncaclard/deambulations-numeriques-2rewics
+
+http://www.espacestemps.net/en/articles/quelle-place-pour-les-vieilles-cartes-au-pays-des-nouvelles-technologies/
+
+http://www.arcorama.fr/2014/01/un-fond-de-carte-sombre-pour-illuminer.html
+
+http://hhrosario.github.io/mapa-lacapital/index.html#.UtVcoHmJC_o
+
+
+http://www.lapresse.ca/multimedias/carte-des-accidents/

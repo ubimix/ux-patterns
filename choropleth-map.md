@@ -1,4 +1,4 @@
-# Choloropleth Map
+# Choloropleth map
 
 * problems: highlight, describe
 * tags: map

@@ -14,3 +14,6 @@ Cartogramme du taux de fécondité des Etats-Unis en 2011 http://prag.ma/code/d3
 
 
 http://www.mappingworlds.com/
+
+http://www.franceculture.fr/blog-globe-2012-03-21-la-france-est-morte-vive-la-france-de-la-carte-au-cartogramme
+http://territoires2040.datar.gouv.fr/spip.php?article41&revue=1
