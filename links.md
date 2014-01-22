@@ -12,9 +12,15 @@ http://seidenstrasse.srf.ch/de/home.html
 
 http://www.predim.org/IMG/pdf/actes-21112013-v2.pdf
 
+
 ## Map Design Semiology
 
 http://geoawesomeness.com/hidden-meanings-maps-design-colors/
+http://www.cartographicperspectives.org/index.php/journal/article/view/cp73-christophehoarau/html
+http://cartography.uni-muenster.de/en/symbols/color-and-color-schemes
+
+http://www.gislounge.com/principles-of-cartographic-design/
+
 
 Introduction to digital cartography
 http://cartography.uni-muenster.de/en/how-to-work-with-this-material
@@ -51,3 +57,19 @@ http://hhrosario.github.io/mapa-lacapital/index.html#.UtVcoHmJC_o
 
 
 http://www.lapresse.ca/multimedias/carte-des-accidents/
+
+http://ux.stackexchange.com/questions/17964/how-many-visually-distinct-colors-can-accurately-be-associated-with-a-separate
+
+## Transport maps
+
+http://www.fastcodesign.com/3020708/evidence/the-science-of-a-great-subway-map
+
+
+## Various
+
+http://blog.cod-rennes.fr/2013/04/26/une-cartographie-des-livres-en-bibliotheque/
+
+
+##Storytelling
+
+Racontr http://fr.slideshare.net/benhoguet/tribeca-hacks-keynote

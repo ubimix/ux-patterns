@@ -9,3 +9,4 @@ Widget d’échelle de la librairie MapboxJS https://www.mapbox.com/mapbox.js/ex
 
 
 http://geoawesomeness.com/hidden-meanings-maps-lines-legend/
+http://cartography.uni-muenster.de/en/packaging

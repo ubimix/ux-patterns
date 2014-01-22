@@ -22,3 +22,11 @@ http://blog.maptia.com/posts/urban-explorations
 http://revolt.axismaps.com/map/
 
 http://kennedyandoswald.com/
+
+
+http://cartography.uni-muenster.de/en/map-types
+Pros and cons of dot maps
++ show finer detail, actual distribution patterns
++ production made easier through GIS
+- information needs
+- unfamiliar

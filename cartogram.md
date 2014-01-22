@@ -17,3 +17,7 @@ http://www.mappingworlds.com/
 
 http://www.franceculture.fr/blog-globe-2012-03-21-la-france-est-morte-vive-la-france-de-la-carte-au-cartogramme
 http://territoires2040.datar.gouv.fr/spip.php?article41&revue=1
+
+http://www.carbonmap.org/
+https://www.joininuk.org/wheretheystarted#_raw
+kiln.it
