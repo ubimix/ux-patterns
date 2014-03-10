@@ -1,0 +1,15 @@
+
+mixin problems(problemKeys)
+    if problemKeys
+      each item in problemKeys
+        span.badge=item
+        | &nbsp;
+        
+mixin tags(keys)
+    if keys
+      each item in keys
+        span.badge=item
+        | &nbsp;
+
+      
+      

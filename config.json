@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "http://localhost:3010",
+    "name": "UX Patterns for Maps",
+    "owner": "Ubimix",
+    "description": "Exploration of best practices for visualizing data on maps and images and for interacting with it"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

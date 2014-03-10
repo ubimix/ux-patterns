@@ -1,0 +1,23 @@
+
+extends layout
+include mixins
+
+block append vars
+  - bodyclass = 'article-detail'
+
+block prepend title
+  | #{ page.title + " - "}
+
+block header
+  h1= page.title
+  | Tags:  
+  mixin problems(page.metadata.problems)
+  mixin tags(page.metadata.tags)
+    
+block content
+
+  article.article
+    section.content!= typogr(page.html).typogrify()
+
+
+
