@@ -1,3 +1,0 @@
-cp -fra patterns/ contents/
-cp about.md contents/
-wintersmith build
