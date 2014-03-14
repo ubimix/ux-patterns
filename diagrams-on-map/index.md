@@ -1,4 +1,5 @@
 title: Diagrams on map
+type: pattern
 problems: [describe]
 tags: superposition, map
 content: >

@@ -1,4 +1,5 @@
 title: Comparative lens
+type: pattern
 problems: [comparison]
 tags: [superposition]
 content: >

@@ -1,4 +1,5 @@
 title: Filter
+type: pattern
 problems: [navigate]
 content: > 
     #Filter

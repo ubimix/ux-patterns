@@ -1,4 +1,5 @@
 title: Dot distribution map
+type: pattern
 problems: [spatialize (popup content), highlight]
 tags: [superposition, map]
 content: >

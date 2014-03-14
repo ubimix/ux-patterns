@@ -1,4 +1,5 @@
 title: Portolan chart
+type: pattern
 tags: [map, history]
 content: >
     # Portolan chart

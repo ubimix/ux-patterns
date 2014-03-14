@@ -1,5 +1,5 @@
 title: Orthophoto map
-template: article.jade
+type: pattern
 tags: [map]
 content: >
     http://en.wikipedia.org/wiki/Orthophotomap

@@ -1,4 +1,5 @@
 title: Heatmap
+type: pattern
 problems: [describe]
 tags: []
 content: >

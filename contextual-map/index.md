@@ -1,4 +1,5 @@
 title: Contextual map
+type: pattern
 problems: [spatialization]
 tags: juxtaposition, map
 content: >

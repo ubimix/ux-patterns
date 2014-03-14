@@ -1,4 +1,5 @@
 title: Blurred step pan
+type: pattern
 problems: [navigate]
 content: >
     https://www.mapbox.com/tutorial-sherlock/

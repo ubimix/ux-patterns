@@ -1,4 +1,5 @@
 title: Opacity gradient layers
+type: pattern
 problems: [comparison]
 see also: [halo, comparison lens, inlay]
 content: >

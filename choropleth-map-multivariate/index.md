@@ -1,4 +1,5 @@
 title: Multivariate choropleth mapping
+type: pattern
 tags: [map]
 content: >
     Multivariate Choloropleth Mapping

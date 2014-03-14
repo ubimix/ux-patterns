@@ -1,5 +1,5 @@
 title: Banner
-template: article.jade
+type: pattern
 problems: [navigate]
 content: >
     # Banner navigator

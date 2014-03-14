@@ -1,9 +1,9 @@
 title: Arcs
-template: article.jade
+type: pattern
 problems: [relate, flows]
 tags: [line]
 preview: gapvis-relations.jpg
-description: >
+content: >
     BlueNode
     
     Relations entre le siège prétendu de revues scientifiques et l’adresse de leur établissement bancaire http://scicomm.scimagdev.org/

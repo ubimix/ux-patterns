@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "js-yaml":"latest",
-    "fileset":"latest",
-    "underscore":"latest"
-  },
-  "repository": "none"
-}

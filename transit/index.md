@@ -1,4 +1,5 @@
 title: Transit
+type: pattern
 problems: [navigate]
 tags: [map]
 content: >

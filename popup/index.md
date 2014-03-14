@@ -1,4 +1,5 @@
 title: Popup
+type: pattern
 problems: [navigate]
 content: >
     # Popup

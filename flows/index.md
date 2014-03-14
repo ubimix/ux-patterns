@@ -1,4 +1,5 @@
 title: Flows
+type: pattern
 problems: [navigate]
 content: >
     L’importance de la mobilité et la difficulté sémiologique de sa représentation

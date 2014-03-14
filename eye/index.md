@@ -1,4 +1,5 @@
 title: Eye
+type: pattern
 problems: [spatialization]
 tags: [superposition]
 content: >

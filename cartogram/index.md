@@ -1,4 +1,5 @@
 title: Cartogram
+type: pattern
 problems: [describe]
 tags: [map]
 content: >

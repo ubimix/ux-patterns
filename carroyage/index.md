@@ -1,4 +1,5 @@
 title: Carroyage
+type: pattern
 tags: [maps]
 see also: [heatmap]
 content: >

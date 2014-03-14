@@ -1,4 +1,5 @@
 title: Arrows
+type: pattern
 problems: [flows]
 preview: eunoia-london-cylcing-census-map.jpg
 ---

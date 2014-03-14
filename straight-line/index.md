@@ -1,4 +1,5 @@
 title: Straight line
+type: pattern
 problems: [navigate]
 content: >
     # Straight-line Diagram

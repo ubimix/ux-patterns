@@ -1,4 +1,5 @@
 title: Legend
+type: pattern
 content: >
     Description : affichage d’une légende explicative sur la carte elle-même
     

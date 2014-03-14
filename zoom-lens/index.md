@@ -1,4 +1,5 @@
 title: Zoom lens
+type: pattern
 problems: [details] 
 tags: [superposition, zoom]
 contents: >

@@ -1,4 +1,5 @@
 title: Inlay
+type: pattern
 problems: [spatialization]
 tags: [superposition]
 content: >

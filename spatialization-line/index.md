@@ -1,15 +1,13 @@
----
 title: Spatialization line
-template: article.jade
 problems: [navigate]
+content: >
+    # Spatialization line
+
+    * problems: spatialization
+    * tags: map
+
+    http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/
+
+    http://maps.google.com
 ---
 
-
-# Spatialization line
-
-* problems: spatialization
-* tags: map
-
-http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/
-
-http://maps.google.com

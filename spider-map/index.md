@@ -1,4 +1,5 @@
 title: Spider map
+type: pattern
 tags: [map]
 content: >
     "A spider map is a schematic diagram of bus services serving a particular locality, as used by Transport for London since 2002. The maps were designed by T-Kartor. Generally mounted on the vertical surfaces of bus shelters it enables potential travellers to select the correct stop to board a bus, and the correct one to alight at.  [...]

@@ -1,4 +1,5 @@
 title: Synchronized zoom
+type: pattern
 problems: [comparison]
 tags: [zoom]
 content: >

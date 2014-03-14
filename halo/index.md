@@ -1,4 +1,5 @@
 title: Halo
+type: pattern
 problems: [highlight]
 tags: [superposition]
 preview: growing-up-in-meriden.jpg

@@ -1,4 +1,5 @@
 title: Expandable media
+type: pattern
 problems: [spatialization]
 tags : [juxtaposition]
 content: >

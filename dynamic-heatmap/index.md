@@ -1,5 +1,5 @@
-type: pattern
 title: Dynamic heatmap
+type: pattern
 problems: [flows]
 preview: living-cities-london-preview.jpg
 ---

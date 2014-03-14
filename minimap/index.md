@@ -1,4 +1,5 @@
 title: Mini-map
+type: pattern
 problems: [context]
 tags: [map]
 see also: [locator-map]

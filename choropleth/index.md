@@ -1,4 +1,5 @@
 title: Choropleth map
+type: pattern
 problems: [highlight, describe]
 tags: [map]
 content: >

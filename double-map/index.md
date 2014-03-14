@@ -1,5 +1,5 @@
 title: Double map
-template: article.jade
+type: pattern
 problems: [navigate]
 content: >
     http://www.boston.com/sports/marathon/course/map/
