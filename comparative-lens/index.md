@@ -2,12 +2,17 @@ title: Comparative lens
 type: pattern
 problems: [comparison]
 tags: [superposition]
+preview: smithsonianmag-ny-1.jpg
 content: >
-    Description : lentille destinée à comparer deux images, typiquement pour une comparaison avant / après, avec possibilité éventuelle d’échanger la position des deux images (dessus / dessous). Possibilité éventuelle d’afficher des informations complémentaires avec la loupe.
-    
-    Comparaison du Manhattan de 1836 avec celui de 2013 http://www.smithsonianmag.com/history-archaeology/This_Interactive_Map_Compares_the_New_York_City_of_1836_to_Today.html
-    
-    Autres exemples de loupes comparatives : http://www.smithsonianmag.com/history-archaeology/A-Before-and-After-Look-at-Americas-Great-Cities.html
+    A comparative lens can be used to compare two maps, typically for before / after comparisons, with a possibility to exchange the position of each map (above / under).
 ---
+type: example
+title: "Cities: Before and After series"
+gallery: 
+    - src: smithsonianmag-ny-1.jpg
+      label: Comparison of the New York City of 1836 to Today
+      href: http://www.smithsonianmag.com/history/interactive-map-compares-new-york-city-1836-today-180947939/?no-ist=
+content: >
+    Other comparison of US cities are available in the [Cities: Before and After](http://www.smithsonianmag.com/history-archaeology/A-Before-and-After-Look-at-Americas-Great-Cities.html) series by the [Smithsonian Mag](http://www.smithsonianmag.com/). 
 
 
