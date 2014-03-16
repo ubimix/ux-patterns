@@ -1,5 +1,5 @@
 type: pattern
-title: Peak
+title: Peak map
 problems: [statistics]
 preview: population-lines.jpg
 contents: >
