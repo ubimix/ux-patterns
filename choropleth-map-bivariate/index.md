@@ -1,4 +1,4 @@
-title: Bivariate choropleth map
+title: Choropleth map bivariate
 type: pattern
 problems: [statistics, bivariate]
 preview: bivariate-choropleth-map.jpg

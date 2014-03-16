@@ -1,4 +1,4 @@
-title: Arrows
+title: Flow arrows
 type: pattern
 problems: [flows]
 preview: eunoia-london-cylcing-census-map.jpg
@@ -12,5 +12,5 @@ gallery:
 content: >
     Comparaison des flux de vélos et d’autres véhicules à Londres, projet européen EUNOIA 
     Eunoia http://eunoia-project.eu/
-    OpenCorporates http://opencorporates.com/viz/financial/index.html#goldman//3076
+    
 

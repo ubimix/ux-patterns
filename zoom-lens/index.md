@@ -4,8 +4,6 @@ problems: [details]
 tags: [superposition, zoom]
 content: >
     Description : affichage de deux niveaux de zoom superposés sur une partie de l’écran.
-    
-    Exemple de loupe sur le site de MapBox https://www.mapbox.com/mapbox.js/example/v1.0.0/zoom-lens/
 
     http://cartography.uni-muenster.de/en/map-types
 
@@ -14,5 +12,12 @@ content: >
     + no need to aggregate data to fixed regional units
     - distribution patterns can be difficult to recognize
     - danger of visual clutter
----
 
+    See also:
+     * http://indiemaps.com/blog/2009/04/lens-tools-and-fisheye-map-browsing/
+---
+type: example
+title: 
+gallery:
+    - src
+      href: https://www.mapbox.com/mapbox.js/example/v1.0.0/zoom-lens/

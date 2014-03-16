@@ -7,5 +7,9 @@ content: >
     
     <p style="text-align:right;">Source: [Wikipedia - Straight-line diagram](http://en.wikipedia.org/wiki/Straight-line_diagram)</p>
 ---
-
+type: example
+title: London Picadilly Underground Line
+gallery:
+    - src: piccadilly-straight-line.gif
+      href: http://en.wikipedia.org/wiki/Straight-line_diagram
 

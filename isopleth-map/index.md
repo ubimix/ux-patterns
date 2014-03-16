@@ -1,4 +1,4 @@
-title: Contour map
+title: Isopleth map
 type: pattern
 preview: 800px-Cntr-map-1.jpg
 content: >

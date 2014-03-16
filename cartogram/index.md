@@ -8,6 +8,10 @@ content: >
     
     
     <p style="text-align:right;">Source: [Wikipedia - Cartogram](http://en.wikipedia.org/wiki/Cartogram)</p>
+    
+    <!--
+    Cartogramme du taux de fécondité des Etats-Unis en 2011 http://prag.ma/code/d3-cartogram/#births/2010
+    -->
 ---
 type: example
 title: CO2 emissions from energy use 1850–2007 by Kiln

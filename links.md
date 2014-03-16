@@ -1,6 +1,14 @@
 http://en.wikipedia.org/wiki/Category:Map_types
+http://support.esri.com/en/knowledgebase/GISDictionary/browse/h
 
 http://en.wikipedia.org/wiki/Geographic_information_system
+http://indiemaps.com/
+http://andywoodruff.com/
+http://en.wikipedia.org/wiki/Geovisualization
+http://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html
+http://christopherwesson.azurewebsites.net/2014/02/11/map-collection-no-4-including-interactivity-and-timelines/
+
+http://www.perceptualedge.com/articles/visual_business_intelligence/over-plotting_in_graphs.pdf
 
 geographic representation schemes
 
@@ -65,6 +73,19 @@ http://www.personal.psu.edu/faculty/c/a/cab38/GEOG321/14_multivariate02/multivar
 
 
 http://popmap.com/
+http://en.wikipedia.org/wiki/Category:Map_types
+
+http://revolt.axismaps.com/map/
+
+    ![tripstamp](./images/tripstamp.jpg?raw=true)
+    http://tripstamp.com/trip/29#al=221,110
+
+http://cartography.uni-muenster.de/en/map-types
+
+http://spatialanalysis.co.uk/
+    
+    http://maptal.es/tales/9#step2
+
 
 http://www.colorado.edu/geography/gcraft/notes/cartocom/section5.html
 

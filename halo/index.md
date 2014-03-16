@@ -4,7 +4,7 @@ problems: [highlight]
 tags: [superposition]
 preview: growing-up-in-meriden.jpg
 content: >
-    The halo effect is typically used for highlighting a specific area on a map. 
+    The halo effect is typically used for highlighting a specific area on a map / an image. 
 ---
 type: example
 title: Growing up in Meriden

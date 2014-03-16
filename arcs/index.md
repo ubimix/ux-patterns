@@ -22,7 +22,8 @@ content: >
     Mapa de migraciones http://elpais.com/especiales/2014/planeta-futuro/mapa-de-migraciones/
     Flights http://www.flightconnections.com/
     Migration http://helpmeviz.com/2013/12/17/state-migration-flows/
-
+    
+    
 ---
 type: example
 title: GapVis – Network map of related places based on narrative co-reference

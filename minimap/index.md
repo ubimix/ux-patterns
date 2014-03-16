@@ -3,9 +3,14 @@ type: pattern
 problems: [context]
 tags: [map]
 see also: [locator-map]
+preview: mapbox-minimap.jpg
 content: >
-    Exemple de widget mini-map https://www.mapbox.com/mapbox.js/example/v1.0.0/leaflet-minimap/
+    A mini-map is a miniature map that is often placed at a screen corner. 
 ---
-
+type: example
+title: Mapbox minimap
+gallery:
+    - src: mapbox-minimap.jpg
+      href: https://www.mapbox.com/mapbox.js/example/v1.0.0/leaflet-minimap/
 
 
