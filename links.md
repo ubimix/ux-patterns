@@ -1,4 +1,12 @@
 http://en.wikipedia.org/wiki/Category:Map_types
+
+http://en.wikipedia.org/wiki/Geographic_information_system
+
+geographic representation schemes
+
+http://www.gsd.harvard.edu/#/academics/courses/sci-06322-spring-2014.html
+http://geography.about.com/od/understandmaps/a/mapcolors.htm
+
 http://www.mappingworlds.com/
 geoclip.fr
 
@@ -10,6 +18,9 @@ http://seidenstrasse.srf.ch/de/home.html
 
 http://www.predim.org/IMG/pdf/actes-21112013-v2.pdf
 
+http://indiemaps.com/blog/
+
+http://territoires2040.datar.gouv.fr/spip.php?article41&revue=1
 
 http://www.nosfinanceslocales.fr/
 
@@ -42,6 +53,18 @@ http://gis.stackexchange.com/questions/4568/effectively-displaying-demographic-d
 
 Jacques Bertin - Sémiologie graphique
 
+Twitter Tongues, Londres http://twitter.mappinglondon.co.uk/
+    
+    Isochrones du Grand Paris http://gp15.fr/
+
+http://manciasmaps.blogspot.fr/2010/07/cadastral-map.html
+
+https://docs.google.com/a/ubimix.com/document/d/1ANYgD4xT2LMahtmlFdr1XDIXGenOvJCG1ZDGBEUauyE/edit#
+http://cartographic-catalog.blogspot.fr/2012/04/multivariate-map.html
+http://www.personal.psu.edu/faculty/c/a/cab38/GEOG321/14_multivariate02/multivariate.html
+
+
+http://popmap.com/
 
 http://www.colorado.edu/geography/gcraft/notes/cartocom/section5.html
 

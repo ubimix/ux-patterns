@@ -1,6 +1,7 @@
 title: Popup
 type: pattern
 problems: [navigate]
+see also: [marker]
 content: >
     # Popup
     

@@ -8,3 +8,4 @@
 * give detail
 * navigation
 * statistics (represent statistics)
+* density

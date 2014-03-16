@@ -1,7 +1,12 @@
 title: Zoom pan
 type: pattern
 content: >
-    https://f.cloud.github.com/assets/25395/1965949/2a9441f4-82c1-11e3-9867-b0403f2fd9f7.gif
+    The zoom pan pattern consists of a succession of the zoom and the pan effects. It is typically used for a quick visual navigation from one place to another that is far from the first one.
 ---
+type: example
+title: Zoom and pan effect example with LeafletJS
+gallery:
+    - src: zoompan-leaflet.gif
+
 
 
