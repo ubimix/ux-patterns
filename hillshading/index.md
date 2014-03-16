@@ -1,5 +1,6 @@
-type:pattern
+type: pattern
 title: Hillshading
+preview: dynamic-hill-shading-leaflet.jpg
 content: >
 
     >Hillshading is shadows drawn on a map to simulate the effect of the sun's rays over the varied terrain of the land.

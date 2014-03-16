@@ -1,7 +1,7 @@
 title: Marker
 type: pattern
 problems: [spatialization]
-preview: kennedy-oswald-1.jpg
+preview: kennedy-1.jpg
 content: >
     
     A map marker is a visual element that is used to mark a map point or area within a map.

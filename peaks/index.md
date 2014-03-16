@@ -1,10 +1,9 @@
 type: pattern
+title: Peak
 problems: [statistics]
-preview: asia-population-lines.png
+preview: population-lines.jpg
 contents: >
-    http://www.roadtolarissa.com/population-division-fullscreen.html
-   
-
+    The peak pattern consist in representing a quantity as a peak whose height is proportional to the quantity value at a given location.
 ---
 type: example
 title: Population Lines

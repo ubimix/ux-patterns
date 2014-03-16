@@ -1,5 +1,6 @@
 title: Zoom pan
 type: pattern
+preview: zoompan-leaflet.gif
 content: >
     The zoom pan pattern consists of a succession of the zoom and the pan effects. It is typically used for a quick visual navigation from one place to another that is far from the first one.
 ---

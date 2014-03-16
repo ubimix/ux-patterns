@@ -2,6 +2,7 @@ title: Horizontal map
 type: pattern
 problems: [spatialization]
 tags: [juxtaposition]
+see also: [vertical-map]
 preview: grantland.jpg
 content: >
     An horizontal map is typically a banner that is placed at the top or the bottom of a page with the goal to illustrate the location of the depicted scene.

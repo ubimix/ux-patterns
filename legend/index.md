@@ -1,5 +1,6 @@
 title: Legend
 type: pattern
+preview: custom-legend.jpg
 content: >
     
     >A legend is the description of the types of features included in a map, usually displayed in the map layout. Legends often use graphics of symbols or examples of features from the map with a written description of what each symbol or graphic represents.

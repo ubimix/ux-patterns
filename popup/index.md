@@ -2,6 +2,7 @@ title: Popup
 type: pattern
 problems: [navigate]
 see also: [marker]
+preview: numa-map-popup.jpg
 content: >
     # Popup
     

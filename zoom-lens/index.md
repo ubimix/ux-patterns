@@ -2,6 +2,7 @@ title: Zoom lens
 type: pattern
 problems: [details] 
 tags: [superposition, zoom]
+preview: zoom-lens.jpg
 content: >
     Description : affichage de deux niveaux de zoom superposés sur une partie de l’écran.
 
@@ -17,7 +18,7 @@ content: >
      * http://indiemaps.com/blog/2009/04/lens-tools-and-fisheye-map-browsing/
 ---
 type: example
-title: 
+title: Mapbox zoom lens
 gallery:
-    - src
+    - src: zoom-lens.jpg
       href: https://www.mapbox.com/mapbox.js/example/v1.0.0/zoom-lens/
