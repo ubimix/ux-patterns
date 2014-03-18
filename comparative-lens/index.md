@@ -1,10 +1,13 @@
 title: Comparative lens
 type: pattern
-problems: [comparison]
+problems: [compare]
 tags: [superposition]
 preview: smithsonianmag-ny-1.jpg
 content: >
     A comparative lens can be used to compare two maps, typically for before / after comparisons, with a possibility to exchange the position of each map (above / under).
+    
+    See also:
+     * https://www.mapbox.com/blog/before-after-moore-tornado/
 ---
 type: example
 title: "Cities: Before and After series"
