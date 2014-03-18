@@ -1,4 +1,4 @@
-title: Over
+title: Image over map
 type: pattern
 preview: south-china-sea.jpg
 problems: [spatialize]

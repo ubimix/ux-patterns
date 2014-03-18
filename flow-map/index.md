@@ -7,8 +7,8 @@ content: >
 
     <p style="text-align:right;">Source: [ESRI GIS dictionary](http://support.esri.com/en/knowledgebase/GISDictionary/term/flow%20map)</p>
 
+
     >Flow maps in cartography are by definition of Phan (2005) "a mix of maps and flow charts, that show the movement of objects from one location to another, such as the number of people in a migration, the amount of goods being traded, or the number of packets in a network".
-    
     
     <p style="text-align:right;">Source: [Wikipedia - Flow map](http://en.wikipedia.org/wiki/Flow_map)</p>
     
