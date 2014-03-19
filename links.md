@@ -1,9 +1,20 @@
 https://github.com/humangeo/leaflet-dvf
 
+
+http://demap.com.au/#prettyPhoto
+http://www.axismaps.com/blog/2012/10/the-aesthetician-and-the-cartographer/
+http://www.slideshare.net/reroth/some-principles-of-uiux-design-for-cartography
 http://en.wikipedia.org/wiki/Category:Map_types
 http://support.esri.com/en/knowledgebase/GISDictionary/browse/h
 
+http://www.pinterest.com/rthys/ux-patterns-maps-spaces/
 
+cf couleurs mélangées via Mikhail carte de population
+http://www.slideshare.net/reroth/some-principles-of-uiux-design-for-cartography
+www.josis.org/index.php/josis/article/viewFile/105/82‎
+search: ux+cartography
+http://twtrland.com/skills/Cartography
+http://ian.muehlenhaus.com/
 
 http://www.artlebedev.ru/everything/svo/navigation/
 http://svo.aero/transport

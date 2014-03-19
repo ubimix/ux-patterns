@@ -1,4 +1,4 @@
-title: Overlay
+title: Semi-transparent overlay
 type: pattern
 preview: south-china-sea.jpg
 problems: [spatialize, compare]
@@ -8,16 +8,22 @@ content: >
      * http://benschmidt.org/mta/
 ---
 type: example
-title: South China Sea
+title: A Game of Shark and Minnow
 gallery:
     - src: south-china-sea.jpg
-      href: http://
+      href: http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/
 ---
 type: example
 title: Ethnicity Trends in the Washington D.C. Area, 2000 to 2010
 gallery:
     - src: ethnicity-trends-washington-dc.jpg
       href: http://www.urbanresearchmaps.org/comparinator/pluralitymap.htm
+---
+type: example
+title: The Actual NY MTA
+gallery:
+    - src: actual-ny-mta.jpg
+      href: http://benschmidt.org/mta/
 ---
 type: example
 title: Liverpool history plans

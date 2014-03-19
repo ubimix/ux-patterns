@@ -8,6 +8,7 @@ content: >
     <p style="text-align:right;">Source: [Wikipedia - Contour line](http://en.wikipedia.org/wiki/Contour_line)</p>
 ---
 type: example
+title: Isopleth
 gallery:
     - src: 800px-Cntr-map-1.jpg
       href: http://en.wikipedia.org/wiki/Contour_line#Isopleths
