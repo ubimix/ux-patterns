@@ -1,11 +1,28 @@
 https://github.com/humangeo/leaflet-dvf
 
+http://www.scoop.it/t/map-print/
 
+http://c2.com/cgi/wiki?MusicalPatterns
+
+http://www.slideshare.net/CharlotteHoarau
+http://www.scoop.it/t/stylingm-p
+http://www.scoop.it/t/orthocarto
 http://demap.com.au/#prettyPhoto
 http://www.axismaps.com/blog/2012/10/the-aesthetician-and-the-cartographer/
 http://www.slideshare.net/reroth/some-principles-of-uiux-design-for-cartography
 http://en.wikipedia.org/wiki/Category:Map_types
 http://support.esri.com/en/knowledgebase/GISDictionary/browse/h
+http://motherboard.vice.com/blog/can-concentric-circles-save-subway-sanity
+https://developers.arcgis.com/javascript/jssamples/renderer_temporal.html
+http://abonnes.lemonde.fr/technologies/visuel/2014/03/28/sandbox-le-reseau-des-elites-connectees-qui-veulent-changer-le-monde_4385947_651865.html
+http://makina-corpus.com/blog/metier/2014/dessiner-une-ville-a-la-main-les-batiments
+http://www.npr.org/censusmap/#10.00/37.7791/-122.4189
+http://infoamazonia.org/
+http://www.tripomatic.com/
+http://cities.groupon.fr/nancy/
+
+colorbrewer by axismaps
+Adobe kuler
 
 http://www.pinterest.com/rthys/ux-patterns-maps-spaces/
 
@@ -29,6 +46,8 @@ http://christopherwesson.azurewebsites.net/2014/02/11/map-collection-no-4-includ
 http://www.perceptualedge.com/articles/visual_business_intelligence/over-plotting_in_graphs.pdf
 
 geographic representation schemes
+
+Cartographie et SIG fr.slideshare.net/sabdarifa/carto-et-sigpartie1
 
 http://www.gsd.harvard.edu/#/academics/courses/sci-06322-spring-2014.html
 http://geography.about.com/od/understandmaps/a/mapcolors.htm
@@ -54,6 +73,7 @@ http://www.sparkgeo.com/labs/focus/
 
 ## Map Design Semiology
 
+http://oxygene-project.sourceforge.net/documentation/application/semiology.html#semiology
 http://geo-pickmeup.com/the-hidden-meanings-of-maps-design-and-colors/
 http://www.cartographicperspectives.org/index.php/journal/article/view/cp73-christophehoarau/html
 http://cartography.uni-muenster.de/en/symbols/color-and-color-schemes
@@ -76,6 +96,11 @@ http://www.topoi.ch/pa/ICC07_HuberSieber.pdf
 
 Effectively displaying demographic data on a printed map
 http://gis.stackexchange.com/questions/4568/effectively-displaying-demographic-data-on-a-printed-map
+
+colorbrewer by axismaps
+Adobe kuler
+
+travail R&d sur les couleurs exposition Signac
 
 Jacques Bertin - Sémiologie graphique
 
@@ -221,3 +246,4 @@ http://fr.slideshare.net/giorgialupi/nonlinear-storytelling-towards-new-methods-
 http://fr.slideshare.net/arnicas/interactive-data-visualization-with-d3js
 http://luminocitymap.org/
 http://legroupe.laposte.fr/dataviz/ dataveyes
+https://www.komoot.de/plan/

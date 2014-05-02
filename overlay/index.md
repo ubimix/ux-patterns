@@ -4,6 +4,10 @@ preview: south-china-sea.jpg
 problems: [spatialize, compare]
 see also: [halo, comparison lens, inlay]
 content: >
+    The semi-transparent overlay pattern consists in laying two data layers or images on each other. The upper one is semi-transparent, allowing to view the one under. It differs from the layer pattern : overlays typically contain data covering common parts of the screen, while layers are meant to visualize data that covers complementary areas (e.g. green areas and transport lines). 
+    
+    Sometimes, the pattern is complemented by an opacity slider allowing to set the opacity level. 
+    
     See also:
      * http://benschmidt.org/mta/
 ---
