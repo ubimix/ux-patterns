@@ -1,6 +1,8 @@
 title: Grid
 type: pattern
 preview: sbb-trafimage-bern-grid.png
+content:>
+    A grid helping to locate POIs or specific areas. Usually used in conjunction with an index.
 ---
 type: example
 title: Bern station map grid

@@ -3,7 +3,7 @@ type: pattern
 tags: [multi-levels]
 preview: gmaps-san-fransisco-airport-level-3.png
 content: >
-    >A switcher for navigating from one level to another.
+    A switcher for navigating from one level to another.
 ---
 type: example
 title: Google Maps level switcher

@@ -3,7 +3,7 @@ type: pattern
 tags: [pois,mobile]
 preview: google-maps-poi-categories.png
 content: >
-    >A list of POI categories is available for filtering the POIs.
+    A list of POI categories is available for filtering the POIs.
 ---
 type: example
 title: Google Maps POI categories
