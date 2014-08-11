@@ -1,6 +1,7 @@
 title: Marker
 type: pattern
 problems: [spatialization]
+tags: [pois]
 preview: kennedy-1.jpg
 content: >
     

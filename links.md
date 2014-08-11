@@ -20,6 +20,11 @@ http://www.npr.org/censusmap/#10.00/37.7791/-122.4189
 http://infoamazonia.org/
 http://www.tripomatic.com/
 http://cities.groupon.fr/nancy/
+http://tracker.geops.ch/
+http://www.arcorama.fr/2013_06_01_archive.html
+
+via Nicolas : https://www.mapbox.com/mapbox.js/example/v1.0.0/inset-hawaii-alaska/
+
 
 colorbrewer by axismaps
 Adobe kuler

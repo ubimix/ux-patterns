@@ -1,6 +1,7 @@
 title: Marker list
 type: pattern
 problems: [navigate, describe]
+tags: [pois]
 see also: [scroll-to-pan]
 preview: pinterest-map-unesco-uk.jpg
 content: >
