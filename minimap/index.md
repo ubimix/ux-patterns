@@ -1,7 +1,6 @@
 title: Mini-map
 type: pattern
-problems: [context]
-tags: [map]
+problems: [spatialize]
 see also: [locator-map]
 preview: mapbox-minimap.jpg
 content: >

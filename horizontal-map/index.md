@@ -1,7 +1,7 @@
 title: Horizontal map
 type: pattern
-problems: [spatialization]
-tags: [juxtaposition]
+problems: [spatialize]
+tags: [pois, juxtaposition, storytelling]
 see also: [vertical-map]
 preview: grantland.jpg
 content: >

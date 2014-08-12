@@ -1,6 +1,6 @@
 title: Inlay
 type: pattern
-problems: [spatialization]
+problems: [spatialize]
 tags: [superposition]
 preview: lee-oswald-ussr-citizenship-letter.jpg
 content: >

@@ -1,5 +1,6 @@
 title: Grid
 type: pattern
+problems: [spatialize]
 preview: sbb-trafimage-bern-grid.png
 content: >
     A grid helping to locate POIs or specific areas. Usually used in conjunction with an index.

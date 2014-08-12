@@ -1,7 +1,7 @@
 title: Slider
 type: pattern
 preview: 2000-to-2010-demographic-changes-atlanta-slider.jpg
-tags: [compare]
+problems: [compare]
 see also: [comparative-lense]
 content: >
     Sliders are typically used to compare geo data on maps between two moments in time, or to compare two sets of geo data or photos.

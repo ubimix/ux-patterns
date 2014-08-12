@@ -1,6 +1,6 @@
 title: Semi-transparent overlay
 type: pattern
-preview: south-china-sea.jpg
+preview: liverpool-old-current.jpg
 problems: [spatialize, compare]
 see also: [halo, comparison lens, inlay]
 content: >

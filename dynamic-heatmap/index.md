@@ -1,6 +1,6 @@
 title: Dynamic heatmap
 type: pattern
-problems: [flows]
+tags: [statistics]
 preview: living-cities-london-preview.jpg
 ---
 type: example

@@ -1,5 +1,6 @@
 title: POI filter
 type: pattern
+problems: [filter]
 tags: [pois,mobile]
 preview: google-maps-poi-categories.png
 content: >

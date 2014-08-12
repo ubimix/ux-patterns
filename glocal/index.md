@@ -1,6 +1,6 @@
 title: Glocal
 type: pattern
-problems: [navigate]
+problems: [spatialize]
 see also: [spider-map]
 preview: boston-marathon-map.jpg
 content: >

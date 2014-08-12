@@ -252,3 +252,5 @@ http://fr.slideshare.net/arnicas/interactive-data-visualization-with-d3js
 http://luminocitymap.org/
 http://legroupe.laposte.fr/dataviz/ dataveyes
 https://www.komoot.de/plan/
+
+http://storymaps.arcgis.com/en/app-list/map-journal/

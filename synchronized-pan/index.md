@@ -1,7 +1,7 @@
 title: Synchronized pan
 type: pattern
 preview: 2000-to-2010-demographic-changes-new-york.jpg
-tags: [compare]
+problems: [compare]
 see also: [synchronized-zoom]
     
 ---

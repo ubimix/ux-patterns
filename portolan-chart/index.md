@@ -1,6 +1,5 @@
 title: Portolan chart
 type: pattern
-tags: [history]
 see also: [pictorial-map]
 preview: 640px-Maggiolo_-_Portolankarte_-_1541.png
 content: >

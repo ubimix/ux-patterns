@@ -1,6 +1,6 @@
 title: Zoom lens
 type: pattern
-problems: [details] 
+problems: [spatialize] 
 tags: [superposition, zoom]
 preview: zoom-lens.jpg
 content: >

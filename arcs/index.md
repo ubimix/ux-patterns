@@ -1,7 +1,6 @@
 title: Arcs
 type: pattern
-problems: [relate, flows]
-tags: [line]
+problems: [relate]
 preview: gapvis-relations-xs.jpg
 content: >
     Arcs or lines on a map are typically used for representing relations, trajectories or flows.

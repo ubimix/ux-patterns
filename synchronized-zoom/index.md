@@ -1,6 +1,6 @@
 title: Synchronized zoom
 type: pattern
-problems: [comparison]
+problems: [compare]
 tags: [zoom]
 preview: urban-observatory.jpg
 ---

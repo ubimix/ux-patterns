@@ -1,7 +1,7 @@
 title: Multi-levels topology
 type: pattern
-tags: [multi-levels]
-problems: [topology]
+tags: [multi-levels, topology]
+problems: [relate]
 preview: sbb-trafimage-bern-topology.png
 content: >
     A topology network for visualizing the connections between objects at different levels.

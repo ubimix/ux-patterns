@@ -1,6 +1,7 @@
 title: Vertical map
 type: pattern
-problems: [spatialization]
+problems: [spatialize]
+tags: [pois, storytelling]
 preview: the-russia-left-behind.jpg
 content: >
     A vertical map is typically a banner that is placed next to some content to illustrate the location it relates to. 

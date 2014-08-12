@@ -1,6 +1,6 @@
 title: Dasymetric map
 type: pattern
-problems: [statistics]
+tags: [statistics]
 see also: [chropleth-map, isopleth-map]
 preview: vienna-dasymetric-map.jpg
 content: >

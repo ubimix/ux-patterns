@@ -1,6 +1,6 @@
 title: Spatialization line
 type: pattern
-problems: [spatialization]
+problems: [spatialize]
 preview: silk-road.jpg
 content: >
     A spatialization line is used for associating a piece of content with a geographical point or area, typically a picture with the place it illustrates.

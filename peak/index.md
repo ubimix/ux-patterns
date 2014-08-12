@@ -1,6 +1,6 @@
 type: pattern
 title: Peak map
-problems: [statistics]
+tags: [statistics]
 preview: population-lines.jpg
 contents: >
     The peak pattern consist in representing a quantity as a peak whose height is proportional to the quantity value at a given location.

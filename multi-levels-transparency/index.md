@@ -1,5 +1,6 @@
 title: Multi-levels transparency
 type: pattern
+problems: [relate]
 tags: [multi-levels]
 preview: svo-level-2.png
 content: >

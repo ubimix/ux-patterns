@@ -1,6 +1,5 @@
 title: Pictorial map
 type: pattern
-tags: [design]
 preview: Map_of_Paris_by_Claes_Jansz._Visscher_-_Harold_B._Lee_Library.jpg
 content: >
     >Pictorial maps are a category of maps that are also loosely called illustrated maps, panoramic maps, perspective maps, bird’s-eye view maps and Geopictorial maps amongst others. In contrast to the regular road map, Atlas or topographic cartography, pictorial maps depict a given territory with a more artistic rather than technical style.

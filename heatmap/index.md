@@ -1,11 +1,10 @@
 title: Heatmap
 type: pattern
-problems: [describe]
-tags: []
+tags: [statistics]
 preview: sandy-mobility-0.jpg
 content: >
     
-    >Heat mapping, from a geographic perspective, is a method of showing the geographic clustering of a phenomenon. Also known as hot spot mapping, heat maps show locations of higher densities of geographic entities.
+    Heat mapping, from a geographic perspective, is a method of showing the geographic clustering of a phenomenon. Also known as hot spot mapping, heat maps show locations of higher densities of geographic entities.
     
     
     <p style="text-align:right;">Source: [Caitlin Dempsey](http://christopherwesson.azurewebsites.net/2013/03/17/heat-maps-expand-into-the-mainstream/)</p>

@@ -1,6 +1,6 @@
 title: Eye
 type: pattern
-problems: [spatialization]
+problems: [spatialize]
 tags: [superposition]
 preview: austinmusicmap-2.jpg
 content: >

@@ -1,6 +1,6 @@
 title: Popup
 type: pattern
-problems: [navigate]
+tags: [pois]
 see also: [marker]
 preview: numa-map-popup.jpg
 content: >

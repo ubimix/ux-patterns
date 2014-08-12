@@ -1,7 +1,6 @@
 title: Chart markers
 type: pattern
-problems: [statistics]
-tags: [superposition]
+tags: [statistics, superposition]
 preview: deaths-in-italian-prisons.jpg
 content: >
     Charts can be placed on a map as markers for illustrating some statistics relating to the geographic area the marker is associated with.

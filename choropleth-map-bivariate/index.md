@@ -1,6 +1,6 @@
 title: Choropleth map bivariate
 type: pattern
-problems: [statistics, bivariate]
+tags: [statistics]
 preview: bivariate-choropleth-map.jpg
 content: >
     Bivariate choropleth maps consist of the representation of two statistical yields on the same map.

@@ -1,7 +1,7 @@
 title: Scroll to pan
 type: pattern
-problems: [navigate]
-tags: [storytelling, scroll, pois]
+problems: [spatialize]
+tags: [pois, storytelling]
 preview: the-adventures-of-the-bruce-partington-plans.jpg
 content: >
     The _scroll to pan_ pattern can be used to associate content with locations. The map then focuses on each location when the user scrolls a navigation banner. The zoom effect on the map usually associated with the scroll button can either be deactivated (e.g. in the first example), or can be kept active (e.g. in the second example), allowing the user to scroll the story and to zoom into the map depending on the scene area.

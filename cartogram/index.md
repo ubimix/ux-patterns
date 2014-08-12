@@ -1,6 +1,6 @@
 title: Cartogram
 type: pattern
-problems: [statistics]
+tags: [statistics]
 preview: carbonmap-emissions-history.jpg
 content: >
     
