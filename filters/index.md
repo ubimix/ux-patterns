@@ -35,7 +35,7 @@ type: example
 title: Google Maps Mobile
 gallery:
     - src: google-maps-poi-categories.png
-      source: Google Maps for Android
+      source: Google Maps / POI Categories
     - src: google-maps-poi-search.png
       source: Google Maps for Android
     - src: google-maps-poi-list.png
@@ -52,6 +52,13 @@ title: RoadTrippers
 gallery:
     - src: roadtrippers.png
       href: http://www.roadtrippers.com
+---
+type: example
+title: Handistrict
+gallery:
+    - src: handistrict.png
+      source: Handistrict
+      href: http://handistrict.com/
 ---
 type: example
 title: Bing Maps
