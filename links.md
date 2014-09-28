@@ -254,3 +254,25 @@ http://legroupe.laposte.fr/dataviz/ dataveyes
 https://www.komoot.de/plan/
 
 http://storymaps.arcgis.com/en/app-list/map-journal/
+
+http://fr.slideshare.net/arnicas/interactive-data-visualization-with-d3js
+http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003vq via Marine
+http://postgraphics.tumblr.com/
+http://www.scoop.it/t/journalisme-graphique
+http://jmapping-maplabs.rhcloud.com/exploding-polygons-into-random-points-by-density-with-postgis/
+http://www.coopercenter.org/demographics/Racial-Dot-Map
+
+
+http://bbecquet.github.io/Leaflet.MagnifyingGlass/examples/example_multi.html
+
+http://www.capcarto.fr/
+http://indicateurs.kompass.com/
+http://cci.wedodata.fr/
+
+
+Pattern sites
+http://patterntap.com/?terms=&sort_by=created&type=78&style=All&platform=All&page=1
+http://quince.infragistics.com/Patterns/Faceted%20Navigation.aspx
+
+
+https://www.mapbox.com/demo/running/

@@ -18,6 +18,7 @@ content: >
      * Flights http://www.flightconnections.com/
      * Migration http://helpmeviz.com/2013/12/17/state-migration-flows/
      * BlueNode
+     * http://cartodb.com/v/worldcup?h=t&country=Argentina&#3/6.68/-36.66
     
 ---
 type: example
