@@ -1,10 +1,9 @@
-title: Filters and search
+title: POI filter
 type: pattern
-tags: [search, filter]
-problems: [search]
+problems: [filter]
+tags: [pois,mobile]
 preview: techonmap.png
 content: maps combining structured filters (categories, tags, etc.) and full-text search.
----
 type: example
 title: TechOnMap
 gallery:
@@ -32,6 +31,16 @@ gallery:
       href: http://maps.google.com
 ---
 type: example
+title: Google Maps Mobile
+gallery:
+    - src: google-maps-poi-categories.png
+      source: Google Maps for Android
+    - src: google-maps-poi-search.png
+      source: Google Maps for Android
+    - src: google-maps-poi-list.png
+      source: Google Maps for Android      
+---
+type: example
 title: OpenDataSoft
 gallery: 
     - src: opendatasoft.png
@@ -54,3 +63,11 @@ title: AirBnB
 gallery:
     - src: airbnb.png
       href: http://www.airbnb.com
+---    
+type: example
+title: Beaugrenelle Trade Center POIs menu
+gallery:
+    - src: beaugrenelle-1.jpg
+    - src: beaugrenelle-3.jpg
+    - src: beaugrenelle-5.jpg
+      
