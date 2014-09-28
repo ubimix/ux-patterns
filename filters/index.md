@@ -1,9 +1,10 @@
-title: POI filter
+title: POI filters and search
 type: pattern
 problems: [filter]
 tags: [pois,mobile]
 preview: techonmap.png
 content: maps combining structured filters (categories, tags, etc.) and full-text search.
+---
 type: example
 title: TechOnMap
 gallery:
